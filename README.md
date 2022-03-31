@@ -1,6 +1,4 @@
-<p  align="center">
 <img align="center" src="https://github.com/gsanchit01/gsanchit01/blob/main/banner.png" alt="Hello_World" />
- </p>
 <!--
 **gsanchit01/gsanchit01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,9 +41,8 @@ Here are some ideas to get you started:
 
 ---
 <p  align="center">
-
-<h2>Snake eating my Contribution<img src = "https://media1.giphy.com/media/ztDGmB7MW8TyhmfJhm/200w.webp?cid=ecf05e47bc6g7rtslh3pk8702kgcvxwvmwktwougg506y4jd&rid=200w.webp&ct=s" width = 50px></h2>
-<img src = "https://github.com/gsanchit01/gsanchit01/blob/output/github-contribution-grid-snake.gif"/>
+<h2 align="center">Snake eating my Contribution<img src = "https://media1.giphy.com/media/ztDGmB7MW8TyhmfJhm/200w.webp?cid=ecf05e47bc6g7rtslh3pk8702kgcvxwvmwktwougg506y4jd&rid=200w.webp&ct=s" width = 50px></h2>
+<img align="center" src = "https://github.com/gsanchit01/gsanchit01/blob/output/github-contribution-grid-snake.gif"/>
 </p>
 
 ---
