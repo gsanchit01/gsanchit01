@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2>Snake eating my Contribution<img src = "https://media1.giphy.com/media/ztDGmB7MW8TyhmfJhm/200w.webp?cid=ecf05e47bc6g7rtslh3pk8702kgcvxwvmwktwougg506y4jd&rid=200w.webp&ct=s" width = 50px></h2>
-[![Sanchit Gupta's snake](https://github.com/sanchitg01/sanchitg01/blob/output/github-contribution-grid-snake.gif)
+<img src = "https://github.com/gsanchit01/gsanchit01/blob/output/github-contribution-grid-snake.gif">
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <p  align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gsanchit01&show_icons=true&theme=onedark" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gsanchit01&theme=onedark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=onedark" alt="gsanchit01" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsanchit01&theme=onedark" alt="gsanchit01" />
 
 </p>
 
