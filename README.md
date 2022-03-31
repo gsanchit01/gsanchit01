@@ -1,5 +1,5 @@
 <p  align="center">
-<img align="center" src="./banner.png" alt="gsanchit01" width=50% height=50%/>
+<img align="center" src="./banner.png" alt="gsanchit01" width=65% height=65%/>
 </p>
 
 ---
