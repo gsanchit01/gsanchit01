@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2>Snake eating my Contribution<img src = "https://media1.giphy.com/media/ztDGmB7MW8TyhmfJhm/200w.webp?cid=ecf05e47bc6g7rtslh3pk8702kgcvxwvmwktwougg506y4jd&rid=200w.webp&ct=s" width = 50px></h2>
-![snake gif](https://github.com/sanchitg01/sanchitg01/blob/output/github-contribution-grid-snake.gif)
+[![Sanchit Gupta's snake](https://github.com/sanchitg01/sanchitg01/blob/output/github-contribution-grid-snake.gif)
 
 ### 🛠 &nbsp;Tech Stack
 
