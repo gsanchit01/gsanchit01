@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/gsanchit01/gsanchit01/blob/main/banner.png" alt="Hello_World" />
+![asdf](./banner.png)
 <!--
 **gsanchit01/gsanchit01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
