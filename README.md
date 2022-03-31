@@ -1,4 +1,8 @@
-![asdf](./banner.png)
+<p  align="center">
+<img align="center" src="./banner.png" alt="gsanchit01" width=50% height=50%/>
+</p>
+
+---
 <!--
 **gsanchit01/gsanchit01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +25,7 @@ Here are some ideas to get you started:
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23013243.svg?&style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/sklearn%20-%23013243.svg?&style=for-the-badge&logo=scikit-learn)&nbsp;
-![Streamlit](https://img.shields.io/badge/streamlit%20-%23013243.svg?&style=for-the-badge&logo=streamlit)&nbsp;\
+![Streamlit](https://img.shields.io/badge/streamlit%20-%23013243.svg?&style=for-the-badge&logo=streamlit)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML%20-%23013243.svg?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS%20-%23013243.svg?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP%20-%23013243.svg?style=for-the-badge&logo=PHP&logoColor=1572B6)&nbsp;
@@ -40,9 +44,9 @@ Here are some ideas to get you started:
 </p>
 
 ---
-<p  align="center">
 <h2 align="center">Snake eating my Contribution<img src = "https://media1.giphy.com/media/ztDGmB7MW8TyhmfJhm/200w.webp?cid=ecf05e47bc6g7rtslh3pk8702kgcvxwvmwktwougg506y4jd&rid=200w.webp&ct=s" width = 50px></h2>
-<img align="center" src = "https://github.com/gsanchit01/gsanchit01/blob/output/github-contribution-grid-snake.svg"/>
+<p  align="center">
+<img align="center" src="https://github.com/gsanchit01/gsanchit01/blob/output/github-contribution-grid-snake.svg" alt="gsanchit01"/>
 </p>
 
 ---
