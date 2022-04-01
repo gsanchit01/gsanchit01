@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a> &nbsp
 <a href= https://getbootstrap.com > <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg'> </a> &nbsp
 <a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>&nbsp
+<a href= https://www.php.net/ > <img width ='32px' src ='https://www.vectorlogo.zone/logos/php/php-icon.svg'> </a>&nbsp
 <a href= https://angular.io/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'> </a> &nbsp
 <a href= https://reactjs.org/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>&nbsp
 <a href= https://nodejs.org/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>&nbsp
@@ -41,7 +42,6 @@ Here are some ideas to get you started:
 <a href= https://pytorch.org/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a> &nbsp
 <a href= https://cloud.google.com/ > <img width ='32px' src ='https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg'> </a> &nbsp
 <a href= https://www.linux.org/ > <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'> </a> &nbsp
-
 </p>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
