@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kaggle.svg'> </a>&nbsp
 <a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg'> </a> &nbsp
 <a href= https://github.com/gsanchit01 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>&nbsp
-
+<a href= mailto:sanchitgupta0101@gmail.com > <img width ='32px' src ='https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg'> </a>&nbsp
 
 ---
 
@@ -75,3 +75,6 @@ Here are some ideas to get you started:
 [![Sanchit Gupta's github activity graph](https://activity-graph.herokuapp.com/graph?username=gsanchit01&theme=xcode)](https://github.com/gsanchit01/gsanchit01)
 
 ---
+
+
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=g-paras&repo=g-paras&countColor=%237B1E7A)
