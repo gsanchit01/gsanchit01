@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 <a href= https://opencv.org/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/opencv.svg'> </a> &nbsp
 <a href= https://scikit-learn.org/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a> &nbsp
 <a href= https://pytorch.org/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a> &nbsp
-<a href= https://aws.amazon.com/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a> &nbsp
 <a href= https://cloud.google.com/ > <img width ='32px' src ='https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg'> </a> &nbsp
 <a href= https://www.linux.org/ > <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'> </a> &nbsp
 
