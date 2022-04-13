@@ -47,10 +47,10 @@ Here are some ideas to get you started:
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
 <a href= https://www.facebook.com/profile.php?id=100008764361549 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg'> </a>&nbsp
 <a href= https://www.instagram.com/sanchitgupta0101/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg'> </a> &nbsp
-<a href= linkedin.com/in/sanchit-gupta-118b50197 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg'> </a>&nbsp
-<a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg'> </a>&nbsp
-<a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kaggle.svg'> </a>&nbsp
-<a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg'> </a> &nbsp
+<a href= https://www.linkedin.com/in/sanchit-gupta-118b50197/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg'> </a>&nbsp
+<a href= https://twitter.com/gsanchit01 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg'> </a>&nbsp
+<a href= https://www.kaggle.com/sanchitgupta0101 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kaggle.svg'> </a>&nbsp
+<a href= https://medium.com/@sanchitgupta0101 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg'> </a> &nbsp
 <a href= https://github.com/gsanchit01 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>&nbsp
 <a href= mailto:sanchitgupta0101@gmail.com > <img width ='32px' src ='https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg'> </a>&nbsp
 
