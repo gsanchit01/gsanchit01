@@ -1,69 +1,139 @@
-<p  align="center">
-<img align="center" src="./banner.png" alt="gsanchit01" width=65% height=65%/>
+<p align="center">
+  <img src="./banner.png" alt="gsanchit01" width="80%"/>
+</p>
+
+<h1 align="center">Hi there, I'm Sanchit Gupta 👋</h1>
+
+<p align="center">
+  <i>Software Developer | AI & ML Enthusiast | Open Source Contributor | Tech Blogger</i>
 </p>
 
 ---
-<!--
-**gsanchit01/gsanchit01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🎯 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2>🛠 &nbsp;Tech Stack
-<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height = 25px></h2>
-<a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>&nbsp
-<a href= https://www.cplusplus.com > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a> &nbsp
-<a href= https://www.python.org/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>&nbsp
-<a href= https://www.java.com/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>&nbsp
-<a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>&nbsp
-<a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a> &nbsp
-<a href= https://getbootstrap.com > <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg'> </a> &nbsp
-<a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>&nbsp
-<a href= https://www.php.net/ > <img width ='32px' src ='https://www.vectorlogo.zone/logos/php/php-icon.svg'> </a>&nbsp
-<a href= https://angular.io/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'> </a> &nbsp
-<a href= https://reactjs.org/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>&nbsp
-<a href= https://nodejs.org/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>&nbsp
-<a href= https://www.mysql.com/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a> &nbsp
-<a href= https://www.mongodb.com/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a> &nbsp
-<a href= https://git-scm.com/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a> &nbsp
-<a href= https://github.com/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a> &nbsp
-<a href= https://www.tensorflow.org/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg'> </a> &nbsp
-<a href= https://opencv.org/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/opencv.svg'> </a> &nbsp
-<a href= https://scikit-learn.org/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a> &nbsp
-<a href= https://pytorch.org/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a> &nbsp
-<a href= https://cloud.google.com/ > <img width ='32px' src ='https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg'> </a> &nbsp
-<a href= https://www.linux.org/ > <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'> </a> &nbsp
-</p>
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height=25px> </h2>
-<a href= https://www.facebook.com/profile.php?id=100008764361549 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg'> </a>&nbsp
-<a href= https://www.instagram.com/sanchitgupta0101/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg'> </a> &nbsp
-<a href= https://www.linkedin.com/in/sanchit-gupta-118b50197/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg'> </a>&nbsp
-<a href= https://twitter.com/gsanchit01 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg'> </a>&nbsp
-<a href= https://www.kaggle.com/sanchitgupta0101 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kaggle.svg'> </a>&nbsp
-<a href= https://medium.com/@sanchitgupta0101 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg'> </a> &nbsp
-<a href= https://github.com/gsanchit01 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>&nbsp
-<a href= mailto:sanchitgupta0101@gmail.com > <img width ='32px' src ='https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg'> </a>&nbsp
+- 🔭 Currently building cool things with **Python**, **React**, and **ML**.
+- 🌱 Learning **Cloud (GCP)**, **DevOps**, and **Scalability**.
+- 💬 Ask me about: **Web Dev**, **AI/ML**, **API Design**, **Data Pipelines**
+- 📫 Reach me at: [sanchitgupta0101@gmail.com](mailto:sanchitgupta0101@gmail.com)
+- 🧠 Fun Fact: I love converting ideas into scalable tech solutions 🚀
 
 ---
 
-<p  align="center">
+## 🧠 Skills & Tools
+
+### Programming Languages  
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+</p>
+
+### Web & Frameworks  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
+</p>
+
+### Databases & Cloud  
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
+</p>
+
+### Dev Tools  
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+</p>
+
+### ML/DL Stack  
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+Here are a few highlights. Explore more on my GitHub: [@gsanchit01](https://github.com/gsanchit01)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gsanchit01&repo=YOUR_PROJECT_NAME&theme=onedark)](https://github.com/gsanchit01/YOUR_PROJECT_NAME)
+
+> To add more projects, just duplicate the card line and replace the repo name!
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- You need to use GitHub Actions or RSS feed workflow to update this automatically -->
+- [How I Used OpenCV to Build a Real-Time Object Detection App](https://medium.com/@sanchitgupta0101/...)
+- [Demystifying CNNs: A Beginner's Guide](https://medium.com/@sanchitgupta0101/...)
+- [Master Git in 10 Minutes](https://medium.com/@sanchitgupta0101/...)
+<!-- BLOG-POST-LIST:END -->
+
+> Use [dev.to GitHub action](https://github.com/gautamkrishnar/blog-post-workflow) or custom RSS update action for automation.
+
+---
+
+## 📜 Certifications
+
+| Name | Issuer | Year |
+|------|--------|------|
+| Google Cloud Essentials | Google Cloud | 2024 |
+| Machine Learning | Coursera (Andrew Ng) | 2023 |
+| Responsive Web Design | freeCodeCamp | 2022 |
+
+> You can also embed badges or use JSON Resume tools to generate a badge wall.
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gsanchit01&theme=onedark&row=1&column=7"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gsanchit01&show_icons=true&theme=onedark" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gsanchit01&theme=onedark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsanchit01&show_icons=true&locale=en&layout=compact&theme=onedark" alt="gsanchit01" />
-
+  <br/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsanchit01&layout=compact&theme=onedark" />
 </p>
 
 ---
 
+## 📫 Connect With Me
 
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=gsanchit01&repo=gsanchit01&countColor=%237B1E7A)
+<p align="left">
+  <a href="https://www.linkedin.com/in/sanchit-gupta-118b50197/"><img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a>&nbsp;
+  <a href="https://twitter.com/gsanchit01"><img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"></a>&nbsp;
+  <a href="https://www.instagram.com/sanchitgupta0101/"><img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"></a>&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100008764361549"><img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"></a>&nbsp;
+  <a href="https://www.kaggle.com/sanchitgupta0101"><img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kaggle.svg"></a>&nbsp;
+  <a href="https://medium.com/@sanchitgupta0101"><img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"></a>&nbsp;
+  <a href="mailto:sanchitgupta0101@gmail.com"><img width="32" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=gsanchit01&repo=gsanchit01&countColor=%237B1E7A" alt="Visitor count"/>
+</p>
