@@ -66,29 +66,6 @@
 
 ---
 
-## 🚀 Projects
-
-Here are a few highlights. Explore more on my GitHub: [@gsanchit01](https://github.com/gsanchit01)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gsanchit01&repo=YOUR_PROJECT_NAME&theme=onedark)](https://github.com/gsanchit01/YOUR_PROJECT_NAME)
-
-> To add more projects, just duplicate the card line and replace the repo name!
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- You need to use GitHub Actions or RSS feed workflow to update this automatically -->
-- [How I Used OpenCV to Build a Real-Time Object Detection App](https://medium.com/@sanchitgupta0101/...)
-- [Demystifying CNNs: A Beginner's Guide](https://medium.com/@sanchitgupta0101/...)
-- [Master Git in 10 Minutes](https://medium.com/@sanchitgupta0101/...)
-<!-- BLOG-POST-LIST:END -->
-
-> Use [dev.to GitHub action](https://github.com/gautamkrishnar/blog-post-workflow) or custom RSS update action for automation.
-
----
-
 ## 📜 Certifications
 
 | Name | Issuer | Year |
