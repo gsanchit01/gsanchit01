@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 ---
 
 <p  align="center">
-  <img width="48%" height="100px" src="https://github-readme-stats.vercel.app/api?username=gsanchit01&show_icons=true&theme=onedark" />
-  <img width="48%" height="100px" src="https://github-readme-streak-stats.herokuapp.com/?user=gsanchit01&theme=onedark" />
-<img align="center" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsanchit01&show_icons=true&locale=en&layout=compact&theme=onedark" alt="gsanchit01" />
+  <img width="48%" height="250px" src="https://github-readme-stats.vercel.app/api?username=gsanchit01&show_icons=true&theme=onedark" />
+  <img width="48%" height="250px" src="https://github-readme-streak-stats.herokuapp.com/?user=gsanchit01&theme=onedark" />
+<img align="center" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsanchit01&show_icons=true&locale=en&layout=compact&theme=onedark" alt="gsanchit01" />
 
 </p>
 
