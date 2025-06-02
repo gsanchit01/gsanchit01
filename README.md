@@ -66,18 +66,6 @@
 
 ---
 
-## 📜 Certifications
-
-| Name | Issuer | Year |
-|------|--------|------|
-| Google Cloud Essentials | Google Cloud | 2024 |
-| Machine Learning | Coursera (Andrew Ng) | 2023 |
-| Responsive Web Design | freeCodeCamp | 2022 |
-
-> You can also embed badges or use JSON Resume tools to generate a badge wall.
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
