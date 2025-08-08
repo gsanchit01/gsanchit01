@@ -15,16 +15,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      # Generate the snake files (GIF and SVG)
+      # Generate the snake animation files
       - name: Generate snake animation
         uses: Platane/snk@master
         with:
           github_user_name: gsanchit01
+          # Generate files into dist/ directory
           outputs: |
-            dist/github-contribution-grid-snake.gif
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.gif
 
-      # Publish the generated files to the "output" branch
+      # Verify files exist (optional, for debugging)
+      - name: List generated files
+        run: ls -R dist
+
+      # Push the generated files to the output branch
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
