@@ -87,7 +87,7 @@
 
 <h2 align="center">Snake eating my Contribution<img src = "https://media1.giphy.com/media/ztDGmB7MW8TyhmfJhm/200w.webp?cid=ecf05e47bc6g7rtslh3pk8702kgcvxwvmwktwougg506y4jd&rid=200w.webp&ct=s" width = 50px></h2>
 <p  align="center">
-<img align="center" src="https://github.com/gsanchit01/gsanchit01/blob/output/ocean.gif" alt="gsanchit01"/>
+<img align="center" src="https://github.com/gsanchit01/gsanchit01/blob/output/github-snake-dark.svg" alt="gsanchit01"/>
 </p>
 
 
